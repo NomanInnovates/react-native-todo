@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257442211638",
+    "project_id": "native-todo-0125",
+    "storage_bucket": "native-todo-0125.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257442211638:android:03dbd331504e931b2a7597",
+        "android_client_info": {
+          "package_name": "native.com.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257442211638-tldnbl66hahjq1c3lqlpvciq9690lnpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo-VhJmJdjyn2p4Zja8RatCMaYFIPPL7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257442211638-tldnbl66hahjq1c3lqlpvciq9690lnpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
